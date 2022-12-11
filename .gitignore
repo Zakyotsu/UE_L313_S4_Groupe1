@@ -2,8 +2,9 @@
 ###> symfony/framework-bundle ###
 /config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
-/var/
 !/var/data.db
+/var/log
+/var/cache
 /vendor/
 ###< symfony/framework-bundle ###
 
